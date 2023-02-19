@@ -10,16 +10,13 @@
 	width:70px;
 }
 .grid{
-	border:1px solid black;
 	display:grid;
 	grid-template-columns: 50% 50%;
 }
 .left-grid, .right-grid{
-	border:1px solid black;
 	padding:10px;
 }
 .profile{
-/* 	padding:20px; */
 	display:grid;
 	grid-template-columns: 50% 50%;
 	padding-right:30px;
